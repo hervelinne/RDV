@@ -1,2 +1,2 @@
 # RDV
-# This programme manages Medical appointments using C#
+# This program manages Medical appointments using C#
